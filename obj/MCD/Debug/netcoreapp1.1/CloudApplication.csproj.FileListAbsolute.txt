@@ -1,0 +1,8 @@
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\bin\MCD\Debug\netcoreapp1.1\CloudApplication.deps.json
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\bin\MCD\Debug\netcoreapp1.1\CloudApplication.runtimeconfig.json
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\bin\MCD\Debug\netcoreapp1.1\CloudApplication.runtimeconfig.dev.json
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\bin\MCD\Debug\netcoreapp1.1\CloudApplication.dll
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\bin\MCD\Debug\netcoreapp1.1\CloudApplication.pdb
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\obj\MCD\Debug\netcoreapp1.1\CloudApplication.AssemblyInfo.cs
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\obj\MCD\Debug\netcoreapp1.1\CloudApplication.dll
+C:\Users\Emily\Documents\OSU Senior Year\Spring Semester\AMIS 3610\CloudApplication\obj\MCD\Debug\netcoreapp1.1\CloudApplication.pdb
